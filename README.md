@@ -1,2 +1,2 @@
-# udacity_de_project_data_modeling_with_apache_cassandra
+## Data modeling and ETL with Apache Cassandra
 ### This project works on ETL from a csv file to Cassandra database
